@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
  <div>
   <img align="center" alt="Higor-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Higor-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Higor-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"">
-  <img align="center" alt="Higor-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Higor-js" height="40" width="40" top="10"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Higor-cpp" height="40" width="40" top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
  </div>
 
 
