@@ -1,13 +1,12 @@
 👋 Hi, I’m @HigorGrigorio
 
-<div style="display: flex; col" > <br>
+<div>
   <a href="https://github.com/HigorGrigorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorGrigorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGrigorio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ##
- 
  <div>
   <img align="center" alt="Higor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higor-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
